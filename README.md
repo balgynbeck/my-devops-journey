@@ -1,3 +1,5 @@
+https://github.com/balgynbeck/my-devops-journey/blob/main/README.md
+
 # My DevOps Learning Journey 🚀
 
 ## About Me
@@ -12,6 +14,8 @@
 - I want to bridge the gap between development and operations
 - I'm excited about automation and making systems more efficient
 - I believe DevOps skills will help me in my career growth
+
+
 
 ## What I Hope to Achieve
 
