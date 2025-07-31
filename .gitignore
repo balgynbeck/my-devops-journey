@@ -1,0 +1,28 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+
+# Personal Notes (private files)
+personal-notes.txt
+secrets.txt
+
+# Python Files (for future use)
+__pycache__/
+*.pyc
+*.pyo
+
+# Node.js Files (for future use)
+node_modules/
+npm-debug.log
