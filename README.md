@@ -1,4 +1,4 @@
-https://github.com/balgynbeck/my-devops-journey/blob/main/README.md
+https://github.com/balgynbeck/my-devops-journey
 
 # My DevOps Learning Journey 🚀
 
