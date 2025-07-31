@@ -2,7 +2,7 @@
 
 ## About Me
 - **Name:** [Balgynbek]
-- **Age:** [21]
+- **Age:** [20]
 - **Location:** [Astana, Kazakhstan]
 - **Background:** [Brief description - student]
 
